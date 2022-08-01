@@ -1,1 +1,1 @@
-C# Minimal API + MongoDB
+C# Minimal API + MongoDB + Automapper + FluentValidation
